@@ -30,7 +30,7 @@ Sigue estos pasos para poner en marcha el proyecto:
 1.  **Clona el repositorio**:
 
     ```bash
-    git clone [https://github.com/tu-usuario/mi-backend.git](https://github.com/tu-usuario/mi-backend.git)
+    git clone https://github.com/Alanffc/backendprimerparcial.git
     ```
 
 2.  **Instala las dependencias**:
