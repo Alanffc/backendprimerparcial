@@ -1,5 +1,6 @@
 require('dotenv').config();
 const express = require('express');
+const mongoose = require('mongoose'); // Importar mongoose
 const connectDB = require('./config/db');
 const { contarOperaciones, obtenerContador } = require('./middlewares/contador');
 const usuarioRoutes = require('./routes/usuarios');

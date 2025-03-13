@@ -46,11 +46,11 @@ Sigue estos pasos para poner en marcha el proyecto:
     Crea un archivo llamado `.env` en la raíz del proyecto y agrega lo siguiente:
 
     ```
-    MONGODB_URI=mongodb+srv://<usuario>:<contraseña>@cluster0.tucluster.mongodb.net/Sample?retryWrites=true&w=majority
+    MONGODB_URI=mongodb+srv://user1:hola123@cluster0.kjo94.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
     PORT=3000
     ```
 
-    -   Reemplaza `<usuario>` y `<contraseña>` con tus credenciales de MongoDB Atlas.
+    -   
 
 4.  **Inicia el servidor**:
 
